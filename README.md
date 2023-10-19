@@ -10,4 +10,4 @@ SML analysis using OpenAI API.
 
 **Data sources**: [Google Cloud Public Datasets](https://cloud.google.com/datasets), [Kaggle](https://www.kaggle.com/), [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
 
-**Technological Stack**: Python, GPT4, OpenAI API, Jupyter Notebook...
+**Technological Stack**: Python, GPT4, OpenAI API, Jupyter Notebook..
